@@ -1,0 +1,57 @@
+section{
+    width: 1100px;
+    margin:auto;
+}
+.nombre{
+     color: #4A4242;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 85px;
+}
+
+
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 900px;
+    margin-top: 90px;
+    
+}
+
+.boton_1{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FC4A12;
+    padding: 10px 25px 10px 25px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 100px;
+    display:block;
+}
+
+.boton_2{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: #E06110;
+    padding: 10px 25px 10px 25px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 100px;
+    display:block;
+}
+
+.boton_3{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: #F8931F;
+    padding: 10px 25px 10px 25px;
+    font-size: 30px;
+    border-radius: 3px;
+    width: 100px;
+    display:block;
+}

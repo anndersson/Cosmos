@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flecha{text-align: center;
+    display: block;
+    width: 30px;
+    color: #E06110;
+    text-decoration: none;
+    border: 1px solid #4A4242;
+    border-radius: 5px;
+
+}
+
+header{
+    border-bottom: 1px solid #4A4242;
+     padding: 10px 50px 10px 50px;
+}
+
+.fl{
+    width: 30px;
+    height: 20px;
+}

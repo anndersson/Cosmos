@@ -1,0 +1,62 @@
+section{
+    width: 1100px;
+    margin:auto;
+}
+
+.titulo{
+     color: #4A4242;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 85px;
+}
+
+.galaxia{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    width: 750px;
+}
+
+.galaxia div{
+    width: 300px;
+    height: 325px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #4A4242;
+    border-radius: 5px;
+    color: #4A4242;
+    text-align: center;
+    
+}
+
+.btn_1{
+    background-color: #E06110;
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px 5px 25px;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: block;
+    width: 40px;
+    margin-left: 100px;
+}
+
+.btn_2{
+    background-color: #E06110;
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px 5px 25px;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: block;
+    width: 40px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+h1{
+    margin-top: 35px;
+}
+
+.info{
+    margin-top: 35px;
+}

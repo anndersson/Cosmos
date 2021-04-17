@@ -1,0 +1,37 @@
+section{
+    width: 1100px;
+    margin:auto;
+}
+
+.titulo{
+     color: white;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 85px;
+}
+
+img{
+    width: 100px;
+}
+body{
+    background-color: #03384a;
+}
+
+.navegador{
+    background-color: white;
+}
+.lunas{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-top: 20px;
+}
+
+.lunas div{
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 50px;
+}
